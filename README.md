@@ -5,4 +5,4 @@ This project was created following the course by Jonas Schmetman.
 
 (DOM Manipulation)
 
- [Live Demo]()
+ [Live Demo](https://guess-number-dom.netlify.app)
